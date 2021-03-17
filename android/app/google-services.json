@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532004322497",
+    "firebase_url": "https://maxchat-3dbc3.firebaseio.com",
+    "project_id": "maxchat-3dbc3",
+    "storage_bucket": "maxchat-3dbc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532004322497:android:92bc1ea04ae475a8b42840",
+        "android_client_info": {
+          "package_name": "com.example.max_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532004322497-l6ihn2ohlc09cis7glgd55o9am91c2nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD42OUkwY99b8UQaBpCkRW2pC71YOU2OIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532004322497-l6ihn2ohlc09cis7glgd55o9am91c2nm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532004322497-7vv3stg35mclsln8ge6i8jln8bifr97s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
